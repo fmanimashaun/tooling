@@ -14,7 +14,7 @@ The project leverages the following technologies:
   - PHP 8.3
   - MySQL
 - **Web Server:**
-  - Nginx 1.17.2
+  - Nginx 1.17.2 or Apache
 - **Frontend:**
   - HTML
   - CSS
