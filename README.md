@@ -22,6 +22,7 @@ The project leverages the following technologies:
 - **Other:**
   - Docker (For containerization)
   - Composer (For PHP dependency management)
+  - hopefully it will update
 
 ### Versioning
 
