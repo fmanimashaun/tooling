@@ -22,7 +22,6 @@ The project leverages the following technologies:
 - **Other:**
   - Docker (For containerization)
   - Composer (For PHP dependency management)
-  - trying to test the jenkins ci/cd flow
 
 ### Versioning
 
