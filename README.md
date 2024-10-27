@@ -15,6 +15,7 @@ The project leverages the following technologies:
   - MySQL
 - **Web Server:**
   - Nginx 1.17.2
+  - apache
 - **Frontend:**
   - HTML
   - CSS
