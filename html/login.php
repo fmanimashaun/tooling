@@ -16,6 +16,7 @@
 
     <main class="container mx-auto mt-20 flex-grow flex items-center justify-center"> 
         <div class="w-full max-w-md mx-auto bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+            <h2>I added something here to see if CI/CD flow will trigger</h2>
             <form method="post" action="login.php">
                 <?php echo display_error(); ?>
 
