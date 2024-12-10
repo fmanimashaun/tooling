@@ -4,14 +4,14 @@ session_start();
 // connect to database
 $db = mysqli_connect('172.31.4.46', 'webaccess', 'Password.1', 'tooling');
 
-// Check connection
-// if (mysqli_connect_errno()) {
-// echo "Failed to connect to MySQL: " . mysqli_connect_error();
-// exit();
-// }
-// else{
-// echo "connected";
-// }
+Check connection
+if (mysqli_connect_errno()) {
+echo "Failed to connect to MySQL: " . mysqli_connect_error();
+exit();
+}
+else{
+echo "connected";
+}
 
 // variable declaration
 $username = "";
