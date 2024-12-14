@@ -2,7 +2,7 @@
 session_start();
 
 // connect to database
-$db = mysqli_connect('172.31.4.46', 'webaccess', 'Password.1', 'tooling');
+$db = mysqli_connect('172.31.11.187', 'webaccess', 'Password.1', 'tooling');
 
 // Check connection
 // if (mysqli_connect_errno()) {
